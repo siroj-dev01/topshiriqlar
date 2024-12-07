@@ -1,0 +1,6 @@
+sonlar=list(range(-4,9))
+#list(sonlar)=result=filter(lambda n:n>-1,sonlar)
+print(sonlar)
+a=str(input("kirit"))
+b=str(input("kirit="))
+print(a*b)
